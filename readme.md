@@ -1,1 +1,1 @@
-Hello! 
+Tensor Tigers is a 501c3 nonprofit organization dedicated to supporting STEM education for K-12 and undergraduate students through the development of autonomous soapbox cars. Backpropagation badger is the second (2020) iteration of the tensor tigers program. Improvements to the 2019 vehicle include the addition of ultrasonic sensors, improved processing power, increases in object detection model versatility, and implementation of LIDAR braking. 
